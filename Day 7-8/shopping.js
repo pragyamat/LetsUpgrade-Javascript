@@ -75,7 +75,7 @@ let products =[
         name: "Black Tshirt for Women",
         size: "M",
         color: "Black",
-        price: 1500,
+        price: 250,
         image: "product10.jpg",
         description: "Casual Printed Black Tshirt for Women"
     },
@@ -83,7 +83,7 @@ let products =[
         name: "Orange Tshirt",
         size: "L",
         color: "Orange",
-        price: 2000,
+        price: 350,
         image: "product11.jpg",
         description: "Casual printed orange tshirt for Men"
     },
@@ -91,7 +91,7 @@ let products =[
         name: "Embroidery Black Saree",
         size: "L",
         color: "Black",
-        price: 1000,
+        price: 2000,
         image: "product12.jpg",
         description: "Beautiful Black Saree with Embroidery"
     }
